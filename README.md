@@ -4,7 +4,7 @@ This is a simple implementation of Tic Tac Toe with an AI opponent that uses the
 
 ## Positional Matrix Score
 
-The `positional_matrix_score` is a matrix that assigns scores to each position on the Tic Tac Toe board. The AI evaluates the board based on the sum of scores for 'X' positions and subtracts the sum of scores for 'O' positions.
+The `positional_matrix_score` is a matrix that assigns scores to each position on the Tic Tac Toe board.
 
 ```python
 positional_matrix_score = [
